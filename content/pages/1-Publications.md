@@ -39,11 +39,14 @@ Title: Publications
 
 **EN**
 
-- Hayato Nishi, Narushige Shiode, Shino Shiode, and Kimihiro Hino, Trend and Seasonality of Crimes in London, Tsukuba Global Sciense Week, Digital Poster Session (03-Empirical criminological studies toward evidence-based crime prevention), Tsukuba (2020).
+- Hayato Nishi, Narushige Shiode, Shino Shiode, and Kimihiro Hino, Trend and Seasonality of Crimes in London, Tsukuba Global Science Week, Digital Poster Session (03-Empirical criminological studies toward evidence-based crime prevention), Tsukuba (2020).
 
 **JP**
 
 - 西颯人，樋野公宏．"犯罪・交通事故の発生件数データを対象とした時系列解析モデルと分析ツールの開発" 日本オペレーションズ・リサーチ学会秋季研究発表会 (2019).
+
+# 書籍 | Books
+- 西颯人、清水千弘. 2020. 4章:不動産市場分析における統計・機械学習の利用. In 清水千弘編. 不動産テック. 朝倉書店. 2020年10月.
 
 # 受賞 | Award
 
