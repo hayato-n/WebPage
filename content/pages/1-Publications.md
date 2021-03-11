@@ -1,9 +1,12 @@
 Title: Publications
 
+[**Google Scholar**](https://scholar.google.com/citations?user=HrEhRyEAAAAJ&hl=ja&oi=ao)
+
 # 審査論文 | Refereed Paper
 
 **EN**
 
+- Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2021) "The illusion of a hedonic price function: Nonparametric interpretable segmentation for hedonic inference", Journal of Housing Economics, Vol. 52, https://doi.org/10.1016/j.jhe.2021.101764.
 - Hayato Nishi, Yasushi Asami, Chihiro Shimizu, (2019) "Housing features and rent: estimating the microstructures of rental housing", International Journal of Housing Markets and Analysis, Vol. 12 Issue: 2, pp.210-225, https://doi.org/10.1108/IJHMA-09-2018-0067
 
 **JP**
